@@ -22,7 +22,7 @@ Founded a **lettuce farming venture in Kajiado**, focusing on sustainable practi
 
 ## 🖥️ Tech & Development Journey
 - Learning web development and JavaScript
-- 🎯 Currently working on a **To-Do List App** and a **Ramen Menu Project**
+- 🎯 Currently working on a **Self Regulation Platform**
 - 📚 Always expanding my knowledge through courses and hands-on projects
 
 ## 🛠️ Tech Stack
@@ -31,11 +31,11 @@ Founded a **lettuce farming venture in Kajiado**, focusing on sustainable practi
 - **Other Interests:** Responsive Web Design, UI/UX, JavaScript Projects
 
 ## 🚀 Current Projects
-- 📝 **To-Do List App**: Implementing priority-based sorting, task editing, and additional features
-- 🍜 **Ramen Menu Project**: Adding dynamic rating & comment updates, deletion functionality
+- 📈  **Self Regulation in the financial markets**: A Platform that helps traders and investors manage risks ethically through education, tools and market insights.
+
 
 ## 📫 Connect with Me
 - 💬 Feel free to discuss web development, financial markets, mushroom farming, or cool project ideas!
-- 📧 Reach me on whatsaap 0714923182
+- 📧 Reach me on WhatsApp 0714923182
 
-Thanks for visiting my profile! Happy coding! 😊
+Thanks for visiting my profile! 😊
