@@ -71,6 +71,6 @@ I'm a lifelong learner passionate about solving real-world problems using techno
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jerome-chauncey/)
-- 🌐 [Portfolio Website](https://jerome-chauncey.github.io/my-portfolioV2/)
+- 🌐 [Portfolio Website](https://portfoliov2-3afc.onrender.com/)
 
 Thanks for stopping by! 😊
