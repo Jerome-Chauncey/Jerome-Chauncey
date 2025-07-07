@@ -1,8 +1,8 @@
 # Hi there, I'm Jerome! 👋
 
-**Financial Markets Analyst | Agripreneur | Front-End Web Developer in Training**
+**Financial Markets Analyst | Agripreneur | Full-Stack Web Developer in Training**
 
-I'm a lifelong learner passionate about solving real-world problems using technology, data, and sustainability. My journey spans financial markets trading, cross-border research, and hands-on agricultural ventures like mushroom and lettuce farming. Currently, I'm sharpening my front-end development skills at Moringa School through practical, real-world projects.
+I am a software engineer passionate about developing intuitive fintech solutions. Skilled in Python, JavaScript, React, SQL, and Flask, I build applications that simplify complex financial operations. I thrive in collaborative environments and continuously seek professional growth.
 
 ---
 
@@ -12,9 +12,14 @@ I'm a lifelong learner passionate about solving real-world problems using techno
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 
 ### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms  
@@ -27,18 +32,32 @@ I'm a lifelong learner passionate about solving real-world problems using techno
 
 ## 🚀 Current Projects
 
-- **📈 Self Regulation in Financial Markets**  
-  A platform that promotes ethical trading by providing education, checklists, and real-time market insights. Built with HTML, CSS, JavaScript, Bootstrap, TradingView widgets, and JSON-backed data.
+- **📊 Forex Bureau App**  
+  A full-stack web application providing real-time currency exchange, order management, and alerts.  
+  - Built with React, Flask & PostgreSQL  
+  - Secure JWT authentication, live FX integration  
+  - Deployed on Render
 
-- **🧠 One Percent**  
-  A financial literacy and self-regulation platform for traders and investors.  
-  - 🧍‍♂️ **Original version (solo project):** [Live Demo](https://jerome-chauncey.github.io/One-Percent/)  
-  - 👥 **Team-based React version:** [Live Site](https://one-percent-react-revival-v2.onrender.com/)
+- **🤖 No Trade Zone Bot** *(In Development)*  
+  A breakout trading bot with a low-risk/high-reward strategy.  
+  - Asian range & NTZ breakout logic  
+  - 3% max risk per trade, CSV-driven news filters  
+  - Automated take-profit ladder & London-close flattening
+
+- **💡 One Percent V2**  
+  A React SPA promoting ethical trading through education.  
+  - Interactive self-regulation checklists  
+  - Responsive UI built with Bootstrap
+
+- **💱 Currency Converter CLI**  
+  A Python CLI tool for CRUD-based currency conversion.  
+  - SQLAlchemy & SQLite backend  
+  - Intuitive prompts and full data management
 
 ---
 
 
-## 🌍 My Journey in a Nutshell
+## 🌍 My Journey 
 
 - **Financial Markets**  
   Active trader since 2020 using the "No Trade Zone" strategy - a risk-conscious, fundamentals-based breakout approach.
