@@ -32,24 +32,21 @@ I am a software engineer passionate about developing intuitive fintech solutions
 
 ## 🚀 Current Projects
 
-- **📊 Forex Bureau App**  
-  A full-stack web application providing real-time currency exchange, order management, and alerts.  
+- **[One Percent (Original)](https://jerome-chauncey.github.io/One-Percent/)**  
+  A solo React project promoting financial self-regulation with interactive checklists, market insights, and educational content.  
+- **[One Percent V2](https://one-percent-react-revival-v2.onrender.com/)**  
+  A team-based React SPA that refines the original with enhanced UI, component architecture, and responsive design.  
+- **[Forex Bureau App](https://github.com/Jerome-Chauncey/Forex-Bureau)**  
+  A full-stack application for real-time currency exchange, order management, and alerts.  
   - Built with React, Flask & PostgreSQL  
   - Secure JWT authentication, live FX integration  
-  - Deployed on Render
-
-- **🤖 No Trade Zone Bot** *(In Development)*  
+  - Deployed on Render  
+- **[No Trade Zone Bot](https://github.com/Jerome-Chauncey/no_trade_zone)** *(In Development)*  
   A breakout trading bot with a low-risk/high-reward strategy.  
   - Asian range & NTZ breakout logic  
   - 3% max risk per trade, CSV-driven news filters  
-  - Automated take-profit ladder & London-close flattening
-
-- **💡 One Percent V2**  
-  A React SPA promoting ethical trading through education.  
-  - Interactive self-regulation checklists  
-  - Responsive UI built with Bootstrap
-
-- **💱 Currency Converter CLI**  
+  - Automated take-profit ladder & London-close flattening  
+- **[Currency Converter CLI](https://github.com/Jerome-Chauncey/currency-converterv1)**  
   A Python CLI tool for CRUD-based currency conversion.  
   - SQLAlchemy & SQLite backend  
   - Intuitive prompts and full data management
