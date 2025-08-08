@@ -50,6 +50,9 @@ I am a software engineer passionate about developing intuitive fintech solutions
   A Python CLI tool for CRUD-based currency conversion.  
   - SQLAlchemy & SQLite backend  
   - Intuitive prompts and full data management
+- **[Tuinue Wasichana](https://github.com/Jerome-Chauncey/Tuinue_Wasichana_v3)**  
+  Tuinue Wasichana is a web application designed to empower girls across Africa by addressing        period poverty and educational barriers.  
+  
 
 ---
 
