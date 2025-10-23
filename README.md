@@ -51,7 +51,15 @@ I am a software engineer passionate about developing intuitive fintech solutions
   - SQLAlchemy & SQLite backend  
   - Intuitive prompts and full data management
 - **[Tuinue Wasichana](https://github.com/Jerome-Chauncey/Tuinue_Wasichana_v3)**  
-  Tuinue Wasichana is a web application designed to empower girls across Africa by addressing        period poverty and educational barriers.  
+  Tuinue Wasichana is a web application designed to empower girls across Africa by addressing        period poverty and educational barriers.
+- **[Worksphere](http://ec2-13-60-32-165.eu-north-1.compute.amazonaws.com/)**  
+  A job marketplace web platform with ML-powered job matching.
+
+  - Built with Laravel & MySQL
+  
+  - Includes role-based authentication, job posting, applications, admin dashboard, and reports
+  
+  - Integrated ML engine for skill and location-based recommendations  
   
 
 ---
