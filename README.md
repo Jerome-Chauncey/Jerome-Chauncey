@@ -61,7 +61,7 @@ I am a software engineer passionate about developing intuitive fintech solutions
   
   - Integrated ML engine for skill and location-based recommendations
 
-- **[Case Kulture](https://https://casekultureke.com/)**  
+- **[Case Kulture](https://casekultureke.com/)**  
   Case Kulture is an online store offering trendy phone cases and accessories, focused on stylish, high-quality, and functional designs for everyday use.
 
   
