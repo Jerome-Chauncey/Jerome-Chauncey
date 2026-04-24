@@ -30,5 +30,5 @@ I run small business projects.
 
 ## 📫 Contact
 
-- Email: chaunceyjerome@icloud.com  
+- Email: omondijerome7@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/jerome-chauncey/
