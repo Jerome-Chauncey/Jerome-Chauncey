@@ -49,13 +49,7 @@ Small-scale controlled environment production
 
 ---
 
-## Contribution Flow
 
-<p align="center">
-  <img src="https://github.com/Jerome-Chauncey/Jerome-Chauncey/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## Contact
 
