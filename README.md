@@ -10,7 +10,8 @@ I run small business projects.
 
 ## 🚀 What I'm working on
 
-- Afrinet Carbon – Laravel web platform  
+- Afrinet Carbon – Laravel web platform
+  Live: https://afrinetcarbon.com/
 - Sugar & Crumbsss – Bakery brand  
 - Mushroom farming systems  
 
