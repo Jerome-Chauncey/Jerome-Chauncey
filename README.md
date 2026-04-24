@@ -1,48 +1,70 @@
-# Hi, I'm Jerome 👋
+# Jerome Chauncey
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&lines=Software+Developer;Trader;Agripreneur;I+build+web+apps;I+trade+financial+markets;I+run+business+projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Developer;Trader;Agripreneur;Building+web+platforms;Trading+financial+markets;Running+scalable+projects)
 
-Software Developer | Trader | Agripreneur
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+</p>
+
+Software Developer | Trader | Agripreneur  
 
 I build web apps.  
 I trade financial markets.  
-I run small business projects.
+I run business projects.  
 
 ---
 
-## 🚀 What I'm working on
+## Current Work
 
-- Afrinet Carbon – Laravel web platform  
-  [Live Site](https://afrinetcarbon.com/)
+Afrinet Carbon  
+Laravel-based web platform focused on carbon systems  
+https://afrinetcarbon.com/
 
-- Sugar & Crumbsss – Bakery brand  
-- Mushroom farming systems  
+Sugar & Crumbsss  
+Bakery brand in Nairobi  
 
----
-
-## 🧰 Tech
-
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![PHP](https://img.shields.io/badge/PHP-777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![HTML](https://img.shields.io/badge/HTML-E34F26)
-![CSS](https://img.shields.io/badge/CSS-1572B6)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![Git](https://img.shields.io/badge/Git-F05032)
+Mushroom Farming Systems  
+Small-scale controlled environment production  
 
 ---
 
-## 📊 Stats
+## Tech Stack
 
-![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Chauncey&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jerome-Chauncey)
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,react,python,html,css,mysql,git" />
+</p>
 
 ---
 
-## 📫 Contact
+## Activity
 
-- Email: omondijerome7@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/jerome-chauncey/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerome-Chauncey&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Jerome-Chauncey&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Chauncey&theme=github-compact&color=0A66C2&line=0A66C2&point=000000&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Flow
+
+<p align="center">
+  <img src="https://github.com/Jerome-Chauncey/Jerome-Chauncey/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Contact
+
+Email  
+omondijerome7@gmail.com  
+
+LinkedIn  
+https://www.linkedin.com/in/jerome-chauncey/
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+</p>
