@@ -20,9 +20,10 @@ Afrinet Carbon
 Laravel-based web platform focused on carbon systems  
 https://afrinetcarbon.com/
 
-Electra Energy
+Electra Energy  
 A circular fuel platform turning urban waste into climate infrastructure.
-https://electraenergy.co/
+https://electraenergy.co
+
 ---
 
 ## Tech Stack
